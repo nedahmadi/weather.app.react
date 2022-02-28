@@ -12,7 +12,10 @@ export default function App() {
             Neda Ahmadi
           </a>{" "}
           and is{" "}
-          <a href="nedahmadi83@gmail.com" target="_blank">
+          <a
+            href="https://github.com/nedahmadi/weather.app.react"
+            target="_blank"
+          >
             open-sourced on github
           </a>
         </footer>
