@@ -8,12 +8,13 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project was coded by{" "}
-          <a href="nedahmadi83@gmail.com" traget="_blank">
+          <a href="nedahmadi83@gmail.com" rel="noreferrer" target="_blank">
             Neda Ahmadi
           </a>{" "}
           and is{" "}
           <a
             href="https://github.com/nedahmadi/weather.app.react"
+            rel="noreferrer"
             target="_blank"
           >
             open-sourced on github
