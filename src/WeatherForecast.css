@@ -5,3 +5,7 @@
   opacity: 0.6;
   margin-left: 5px;
 }
+.whole {
+  border: 2px solid #a7bcb9;
+  border-radius: 30px;
+}
