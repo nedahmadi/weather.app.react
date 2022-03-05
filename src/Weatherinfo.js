@@ -27,13 +27,11 @@ export default function Weatherinfo(props) {
             <li>Humidity : {props.data.humidity} %</li>
             <li>Wind : {Math.round(props.data.wind)} km/h </li>
           </ul>
-          <img
-            className="bear"
-            src="https://www.pngkit.com/png/detail/131-1312968_we-bare-bears-we-bare-bears-panda.png"
-            width="200"
-            alt="bear"
-          />
 
+          <br />
+          <br />
+          <br />
+          <br />
           <br />
         </div>
       </div>
